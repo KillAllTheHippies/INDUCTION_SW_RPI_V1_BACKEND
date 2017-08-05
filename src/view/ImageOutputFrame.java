@@ -1,7 +1,6 @@
 package view;
 
 import controller.InductionSWController;
-import net.miginfocom.swing.MigLayout;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
@@ -9,6 +8,8 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.util.Date;
+
+import net.miginfocom.swing.MigLayout;
 
 /**
  * Created by Jamie on 30/07/2017.
